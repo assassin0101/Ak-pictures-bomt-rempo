@@ -1,21 +1,15 @@
 class script(object):
-    START_TXT = """ʜᴇʟʟᴏ {}
+    START_TXT = """𝐇ᴇʏ, {} 😃\n\n𝐈 𝐂ᴀɴ 𝐏ʀᴏᴠɪᴅᴇ 𝐌ᴏᴠɪᴇs 𝐎ʀ 𝐒ᴇʀɪᴇs 😜\n\n𝐉ᴜsᴛ 𝐀ᴅᴅ 𝐌ᴇ 𝐈ɴ 𝐘ᴏᴜʀ 𝐆ʀᴏᴜᴘ 𝐀s 𝐀ᴅᴍɪɴ 😎\n\n𝐀ɴ𝐝 𝐈 𝐖ᴏʀᴋ 𝐎ɴ 𝐁ᴏᴛʜ 𝐆ʀᴏᴜᴘ 𝐀ɴᴅ 𝐏𝐌 😘"""
 
-ɪ ᴄᴀɴ ᴘʀᴏᴠɪᴅᴇ ᴍᴏᴠɪᴇs ᴀɴᴅ sᴇʀɪᴇs,
-ᴊᴜsᴛ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴀɴᴅ ᴇɴᴊᴏʏ.
-ɪ ᴡᴏʀᴋ ᴏɴ ʙᴏᴛʜ ɢʀᴏᴜᴘ ᴀɴᴅ ᴘᴍ."""
-
-    HELP_TXT = """<b>Hᴇʏ {}
-
-Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
+    HELP_TXT = """<b>𝐇ᴇʏ,  {} 😎\n\n𝐇ᴇʀᴇ 𝐈s 𝐓ʜᴇ 𝐇ᴇʟᴘ 𝐅ᴏʀ 𝐌ʏ 𝐂ᴏᴍᴍᴀɴᴅs. \n\n𝐌ᴀᴅᴇ 𝐖ɪᴛʜ 𝐋ᴏᴠᴇ ❤.</b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Cyniteofficial>☢ Cynite ☢</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Royaldwip>Royal Dwip</a></b>
 
-<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/CyniteBackup>Cynite Updates 👾</a></b>
+<b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/AkPicturesOfficial>AkPicturesOfficial</a></b>
 
-<b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ2.0.62 [Sᴛᴀʙʟᴇ]</b>"""
+<b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ5.0.79 [Sᴛᴀʙʟᴇ]</b>"""
 
     SOURCE_TXT ="""
 <b>Tʜɪꜱ Bᴏᴛ Iꜱ Aɴ Oᴘᴇɴ Sᴏᴜʀᴄᴇ Pʀᴏᴊᴇᴄᴛ.
