@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MOVIE+SEARCH+BOT+!;CREATED+BY+TECHNICAL+CYNITE!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MOVIE+SEARCH+BOT+!;CREATED+BY+ROYAL+DWIP!;A+ADVANCE+BOT+WITH+COOL+FEATURES!)
 </p>
 
 </p>
@@ -49,7 +49,7 @@
 
 - [x] /delg - ᴛᴏ ᴅᴇʟᴇᴛᴇ ᴀ sᴘᴇᴄɪғɪᴄ ɢʟᴏʙᴀʟ ғɪʟᴛᴇʀ
 
-## TG Bot [@CyniteBackup](t.me/CyniteBackup)
+## TG Bot [@Royaldwip](t.me/Royaldwip)
 
 ## Credits 
 
