@@ -1,13 +1,15 @@
 class script(object):
-    START_TXT = """𝐇ᴇʏ, {} 😃\n\n𝐈 𝐂ᴀɴ 𝐏ʀᴏᴠɪᴅᴇ 𝐌ᴏᴠɪᴇs 𝐎ʀ 𝐒ᴇʀɪᴇs 😜\n\n𝐉ᴜsᴛ 𝐀ᴅᴅ 𝐌ᴇ 𝐈ɴ 𝐘ᴏᴜʀ 𝐆ʀᴏᴜᴘ 𝐀s 𝐀ᴅᴍɪɴ 😎\n\n𝐀ɴ𝐝 𝐈 𝐖ᴏʀᴋ 𝐎ɴ 𝐁ᴏᴛʜ 𝐆ʀᴏᴜᴘ 𝐀ɴᴅ 𝐏𝐌 😘"""
+    START_TXT = """**Hey, {} 😃 \n\n  I Can Provide Movies Or Series 😜\nJust Add Me In Your Group As Admin 😎 \n\n Use Our File Rename Bot :- @RoyalRenamexbot 😍**"""
 
-    HELP_TXT = """<b>𝐇ᴇʏ,  {} 😎\n\n𝐇ᴇʀᴇ 𝐈s 𝐓ʜᴇ 𝐇ᴇʟᴘ 𝐅ᴏʀ 𝐌ʏ 𝐂ᴏᴍᴍᴀɴᴅs. \n\n𝐌ᴀᴅᴇ 𝐖ɪᴛʜ 𝐋ᴏᴠᴇ ❤.</b>"""
+    HELP_TXT = """<b>𝐇ᴇʏ,  {} 😎\n\n𝐇ᴇʀᴇ 𝐈s 𝐓ʜᴇ 𝐇ᴇʟᴘ 𝐅ᴏʀ 𝐌ʏ 𝐂ᴏᴍᴍᴀɴᴅs. \n\n𝐌ᴀᴅᴇ 𝐖ɪᴛʜ 𝐋ᴏᴠᴇ ❤.\n\n Use File Rename Bot 👉 <a href=https://t.me/RoyalRenamexbot>RoyalRenamebot</a></b></b>"""
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 
 <b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Royaldwip>Royal Dwip</a></b>
 
 <b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/AkPicturesOfficial>AkPicturesOfficial</a></b>
+
+<b>✯ ғɪʟᴇ ʀᴇɴᴀᴍᴇ ʙᴏᴛ : <a href=https://t.me/RoyalRenamexbot>Royal Rename Bot</a></b>
 
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ5.0.79 [Sᴛᴀʙʟᴇ]</b>"""
 
