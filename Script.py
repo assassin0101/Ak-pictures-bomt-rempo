@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """**Hey, {} 😃 \n\n  I Can Provide Movies Or Series 😜\nJust Add Me In Your Group As Admin 😎 \n\n Use Our File Rename Bot :- @RoyalRenamexbot 😍**"""
+    START_TXT = """<b>Hey, {} 😃 \n\n  I Can Provide Movies Or Series 😜\nJust Add Me In Your Group As Admin 😎 \n\n Use Our File Rename Bot :- @RoyalRenamexbot 😍</b>"""
 
     HELP_TXT = """<b>𝐇ᴇʏ,  {} 😎\n\n𝐇ᴇʀᴇ 𝐈s 𝐓ʜᴇ 𝐇ᴇʟᴘ 𝐅ᴏʀ 𝐌ʏ 𝐂ᴏᴍᴍᴀɴᴅs. \n\n𝐌ᴀᴅᴇ 𝐖ɪᴛʜ 𝐋ᴏᴠᴇ ❤.\n\n Use File Rename Bot 👉 <a href=https://t.me/RoyalRenamexbot>RoyalRenamebot</a></b></b>"""
 
@@ -9,7 +9,7 @@ class script(object):
 
 <b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/AkPicturesOfficial>AkPicturesOfficial</a></b>
 
-<b>✯ ғɪʟᴇ ʀᴇɴᴀᴍᴇ ʙᴏᴛ : <a href=https://t.me/RoyalRenamexbot>Royal Rename Bot</a></b>
+<b>✯ Fɪʟᴇ ʀᴇɴᴀᴍᴇ ʙᴏᴛ : <a href=https://t.me/RoyalRenamexbot>Royal Rename Bot</a></b>
 
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ5.0.79 [Sᴛᴀʙʟᴇ]</b>"""
 
