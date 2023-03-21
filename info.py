@@ -86,7 +86,7 @@ SPL_DELETE_TIME = int(environ.get('SPL_DELETE_TIME', 300))
 # URL SHORTNER
 
 URL_SHORTENR_WEBSITE = environ.get('URL_SHORTENR_WEBSITE', 'Omegalinks.in')
-URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', '568772272f908068d4bcc2a9e32893fe28ee524c')
+URL_SHORTNER_WEBSITE_API = environ.get('URL_SHORTNER_WEBSITE_API', 'c534b26e7457f95d13076af9a6e617f576cf4731')
 
 LOG_STR = "Current Cusomized Configurations are:-\n"
 LOG_STR += ("IMDB Results are enabled, Bot will be showing imdb details for you queries.\n" if IMDB else "IMBD Results are disabled.\n")
