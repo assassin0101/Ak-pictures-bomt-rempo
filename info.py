@@ -51,7 +51,7 @@ MSG_ALRT = environ.get('MSG_ALRT', 'Share and Support Us')
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', -1001805741429))
 FILE_CHANNEL = int(environ.get('FILE_CHANNEL', -1001278732144))
 FILE_CHANNEL_LINK = environ.get('FILE_CHANNEL_LINK', 'https://t.me/+rWxJgEwBlNdhMjk1')
-HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://youtu.be/evxgUB7PMvU')
+HOW_DWLD_LINK = environ.get('HOW_DWLD_LINK', 'https://t.me/howtoopenfox/5')
 
 # Log Channels
 LOG_CHANNEL = int(environ.get('LOG_CHANNEL', -1001870855110))
