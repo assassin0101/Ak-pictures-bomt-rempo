@@ -1,5 +1,5 @@
 class script(object):
-    START_TXT = """<b>Hey, {} 😃 \n\n  I Can Provide Movies Or Series 😜\nJust Add Me In Your Group As Admin 😎 \n\n Use Our File Rename Bot :- @RoyalRenamexbot 😍</b>"""
+    START_TXT = """<b>Hey, {} 😃 \n\n  I Can Provide Movies Or Series 😜\nJust Add Me In Your Group As Admin 😎 \n\n Use Our File R</b>"""
 
     HELP_TXT = """<b>𝐇ᴇʏ,  {} 😎\n\n𝐇ᴇʀᴇ 𝐈s 𝐓ʜᴇ 𝐇ᴇʟᴘ 𝐅ᴏʀ 𝐌ʏ 𝐂ᴏᴍᴍᴀɴᴅs. \n\n𝐌ᴀᴅᴇ 𝐖ɪᴛʜ 𝐋ᴏᴠᴇ ❤.\n\n Use File Rename Bot 👉 <a href=https://t.me/RoyalRenamexbot>RoyalRenamebot</a></b></b>"""
 
