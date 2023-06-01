@@ -5,11 +5,12 @@ class script(object):
 
     ABOUT_TXT = """<b>✯ Mʏ Nᴀᴍᴇ : {}</b>
 
-<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/Royaldwip>Royal Dwip</a></b>
+<b>✯ Cʀᴇᴀᴛᴏʀ : <a href=https://t.me/TheAkPicturesOwner>The Ak Pictures Owner</a></b>
+
 
 <b>✯ Uᴘᴅᴀᴛᴇs : <a href=https://t.me/AkPicturesOfficial>AkPicturesOfficial</a></b>
 
-<b>✯ Fɪʟᴇ ʀᴇɴᴀᴍᴇ ʙᴏᴛ : <a href=https://t.me/RoyalRenamexbot>Royal Rename Bot</a></b>
+
 
 <b>✯ Bᴜɪʟᴅ Sᴛᴀᴛᴜs : ᴠ5.0.79 [Sᴛᴀʙʟᴇ]</b>"""
 
@@ -109,7 +110,7 @@ class script(object):
 <b>👥 ɢʀᴏᴜᴘs:</b> <code>{}</code>
 <b>📉 ᴏᴄᴄᴜᴘɪᴇᴅ:</b> <code>{}</code>
 
-<b><a href=https://t.me/CyniteBackup>~ Maintained by Cynite</a></b>"""
+<b><a href=https://t.me/TheAkPicturesOwner>~ Maintained by The Ak Pictures Owner</a></b>"""
 
     ADMIN_STATUS_TXT = """<b>⍟────[ ʙᴏᴛ sᴛᴀᴛᴜ𝗌 ]────⍟</b>
 
@@ -131,7 +132,7 @@ class script(object):
 
 <b>🆓 ғʀᴇᴇ:</b> <code>{}</code>
 
-<b>⍟────[ @Royaldwip ]─────⍟</b>"""
+<b>⍟────[ @TheAkPicturesOwner ]─────⍟</b>"""
 
     LOG_TEXT_G = """<b>#NewGroup
     
