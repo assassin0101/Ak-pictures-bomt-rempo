@@ -50,6 +50,8 @@ async def start(client, message):
                     InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about'),
                   ],[
+                    InlineKeyboardButton('How To Download', url="https://t.me/howtoopenfox/7")
+                  ],[
                     InlineKeyboardButton('𝗝𝗼𝗶𝗻 𝗢𝘂𝗿 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗖𝗵𝗮𝗻𝗻𝗲𝗹', url="https://t.me/AkPicturesOfficial")
                   ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -96,6 +98,8 @@ async def start(client, message):
                   ],[
                     InlineKeyboardButton('ʜᴇʟᴘ', callback_data='help'),
                     InlineKeyboardButton('ᴀʙᴏᴜᴛ', callback_data='about'),
+                  ],[
+                    InlineKeyboardButton('How To Download', url="https://t.me/howtoopenfox/7")
                   ],[
                     InlineKeyboardButton('𝗷𝗼𝗶𝗻 𝗼𝘂𝗿 𝘁𝗲𝗹𝗲𝗴𝗿𝗮𝗺 𝗰𝗵𝗮𝗻𝗻𝗲𝗹', url="https://t.me/AkPicturesOfficial")
                   ]]
